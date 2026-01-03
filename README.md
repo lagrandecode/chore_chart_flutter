@@ -5,6 +5,12 @@ A delightful Flutter mobile app for managing family chores with a warm, nostalgi
 ![Flutter](https://img.shields.io/badge/Flutter-3.35.7-02569B?logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-3.9.2-0175C2?logo=dart)
 
+## 📸 Screenshot
+
+![Chore Chart App Screenshot](assets/images/Simulator%20Screenshot%20-%20iPhone%2016e%20-%202026-01-02%20at%2019.10.09.png)
+
+*The app features a warm crayon aesthetic with wobbly borders, hand-drawn avatars, and a nostalgic paper texture background.*
+
 ## ✨ Features
 
 ### 🎨 Visual Design
